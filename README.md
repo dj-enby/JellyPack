@@ -1,4 +1,4 @@
-## JellyPack modpack for Minecraft Java Edition
+## JellyPack for Minecraft Java Edition
 
 use [this](https://github.com/dj-enby/dj-enby.github.io) repo for packwiz-installer/packwiz-bootstrap-installer
 \
