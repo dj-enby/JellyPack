@@ -1,0 +1,121 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "3b2c1ac53b3aed8e5d0a20ed50a663e8c24948216ab93acd4135c69b3c2fa1e1"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "4de24ddd51cba8dfddd2e66fa2c659013596289839f888a0c8f6222669e75637"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "35ede7e1fc3181ecac4f75f57a7c64eef817d8336395d76df8c1228b685895c4"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "e5c12c22adc95c309b69f10f9000bf02d1cb55ec538b4f073c8e61097cfa47a3"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "5ce447aedd356fc9ce371f036ccfd2248f366e9002b739345c8af9a3259c52c4"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "6de9699b6beffe6248696a2091818d1b3af84243ba373ad7bd274cce7082f310"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "7df3b326133d7dc8b6175cf86d26203f01697cc1e86b000a0970b940b82f9fe3"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "e4382eacff17da90e89d9d6cc024cc17a0e321ad36a8a0548ed4e4e6baf5a6b2"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "2e814a41e25a222c3d0363931887da7b8c63522281a7044a21dda255f8318b5e"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
