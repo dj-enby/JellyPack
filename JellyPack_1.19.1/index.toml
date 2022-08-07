@@ -6,6 +6,11 @@ hash = "e6ef433e20a2d85023ecc70ba2ff5ad2f0cf4565294c40dc108466c758ebb6f1"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "3b2c1ac53b3aed8e5d0a20ed50a663e8c24948216ab93acd4135c69b3c2fa1e1"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "4a7dc34ea75dda18719bdcee7fdb23a48c53142b57df960ffffbca652fc6b95a"
 metafile = true
@@ -32,12 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c1a6cfa44e19f5c0a53c4d3e22eab18cd89b6a5e7a1fffa2b152a37e3a4d2ff1"
+hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "35ede7e1fc3181ecac4f75f57a7c64eef817d8336395d76df8c1228b685895c4"
 metafile = true
 
 [[files]]
@@ -96,6 +106,11 @@ hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
 metafile = true
@@ -106,8 +121,23 @@ hash = "e4382eacff17da90e89d9d6cc024cc17a0e321ad36a8a0548ed4e4e6baf5a6b2"
 metafile = true
 
 [[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "2e814a41e25a222c3d0363931887da7b8c63522281a7044a21dda255f8318b5e"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
